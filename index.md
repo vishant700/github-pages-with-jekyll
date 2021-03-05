@@ -1,3 +1,3 @@
-# Welcome to my blog
+# Hi! I am Vishant
 
-I'm glad you are here. I plan to talk about ...
+This blog is for learning
